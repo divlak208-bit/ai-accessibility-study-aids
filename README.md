@@ -37,3 +37,7 @@ ChatGPT, Gemini, NotebookLM, Claude, ElevenLabs (free tier), and an image/design
 - Every output was checked against the NCERT text. Every tool made at least one error, so human review was needed.
 - Only an open NCERT section was used, with credit. No personal data was uploaded.
 - Known limit: the switch in the mind-map picture is still drawn open and is to be redrawn as closed.
+
+
+## Project Documents
+https://github.com/divlak208-bit/ai-accessibility-study-aids/tree/main/docs
